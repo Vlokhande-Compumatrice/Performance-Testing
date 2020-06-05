@@ -1,0 +1,32 @@
+{
+  "20User1SecRampUp1loop" : {
+    "transaction" : "20User1SecRampUp1loop",
+    "sampleCount" : 200,
+    "errorCount" : 5,
+    "errorPct" : 2.5,
+    "meanResTime" : 819.0750000000002,
+    "minResTime" : 312.0,
+    "maxResTime" : 11566.0,
+    "pct1ResTime" : 845.7,
+    "pct2ResTime" : 961.7999999999997,
+    "pct3ResTime" : 10519.450000000083,
+    "throughput" : 0.1214632925783499,
+    "receivedKBytesPerSec" : 0.5780003957425901,
+    "sentKBytesPerSec" : 1.094148219302582
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 5,
+    "errorPct" : 2.5,
+    "meanResTime" : 819.0750000000002,
+    "minResTime" : 312.0,
+    "maxResTime" : 11566.0,
+    "pct1ResTime" : 845.7,
+    "pct2ResTime" : 961.7999999999997,
+    "pct3ResTime" : 10519.450000000083,
+    "throughput" : 0.1214632925783499,
+    "receivedKBytesPerSec" : 0.5780003957425901,
+    "sentKBytesPerSec" : 1.094148219302582
+  }
+}
