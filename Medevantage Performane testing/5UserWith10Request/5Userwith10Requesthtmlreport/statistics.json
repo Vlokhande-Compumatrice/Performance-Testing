@@ -1,0 +1,32 @@
+{
+  "5User1Ramp10loop" : {
+    "transaction" : "5User1Ramp10loop",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1156.02,
+    "minResTime" : 602.0,
+    "maxResTime" : 10671.0,
+    "pct1ResTime" : 2401.7,
+    "pct2ResTime" : 2832.4499999999994,
+    "pct3ResTime" : 10671.0,
+    "throughput" : 0.030492806442032262,
+    "receivedKBytesPerSec" : 0.14981437408788392,
+    "sentKBytesPerSec" : 0.27484500506485515
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1156.02,
+    "minResTime" : 602.0,
+    "maxResTime" : 10671.0,
+    "pct1ResTime" : 2401.7,
+    "pct2ResTime" : 2832.4499999999994,
+    "pct3ResTime" : 10671.0,
+    "throughput" : 0.030492806442032262,
+    "receivedKBytesPerSec" : 0.14981437408788392,
+    "sentKBytesPerSec" : 0.27484500506485515
+  }
+}
